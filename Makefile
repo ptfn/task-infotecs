@@ -17,7 +17,7 @@ LIBSRCDIR = lib/src/
 
 PROG1OBJDIR = prog1/build/
 PROG2OBJDIR = prog2/build/
-LIBOBJDIR = ~/lib/build/
+LIBOBJDIR = lib/build/
 
 # source files
 PROG1SRC = prog1.cpp
